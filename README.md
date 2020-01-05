@@ -1,10 +1,10 @@
 # AutoEncoder Feature Selector (AEFS)
-Unofficial code for paper "Autoencoder Inspired Unsupervised Feature Selection"
+A great implementation in Matlab for paper "Autoencoder Inspired Unsupervised Feature Selection"
 
 Details in [Paper](https://ieeexplore.ieee.org/abstract/document/8462261/) or [Arxiv](https://arxiv.org/pdf/1710.08310.pdf).
 
 ## Usage
-Run `aefs_demo.m` in Matlab.
+Run `aefs_demo.m` in Matlab, which is a demo on warpPIE10P dataset.
 
 ## Citation
 ```
